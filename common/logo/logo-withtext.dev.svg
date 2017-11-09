@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="logo-withtext.dev.svg"
-   inkscape:export-filename="/media/blanki/web/web-projects/pluswp/pluswp/design/logo-white--unbordered.png"
+   inkscape:export-filename="/media/blanki/web/web-projects/knitkode/knitkode/design/logo-white--unbordered.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -97,7 +97,7 @@
          id="tspan2987"
          x="43.922878"
          y="359.45145"
-         style="font-size:66.34396362px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia">pluswp</tspan></text>
+         style="font-size:66.34396362px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia">knitkode</tspan></text>
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="m 196.91404,63.403299 a 6.9056864,6.9056847 0 0 0 -3.72333,1.22907 l -44.46321,30.00363 -37.05268,-24.72589 a 6.9056864,6.9056847 0 0 0 -0.36148,-0.25304 l -7.22979,-4.80781 a 6.9056864,6.9056847 0 0 0 -3.90409,-1.08447 6.9056864,6.9056847 0 0 0 -3.75949,12.57984 l 7.22979,4.80781 a 6.9056864,6.9056847 0 0 0 0.57838,0.36149 l 32.13642,21.472471 -39.79999,26.82252 a 6.9056864,6.9056847 0 1 0 7.73587,11.42307 l 44.4632,-29.96748 36.00436,24.03905 -40.01689,26.64178 a 6.9056864,6.9056847 0 0 0 -3.14496,5.78382 l 0.65068,128.65411 a 6.9056864,6.9056847 0 1 0 13.80891,-0.0362 l -0.65069,-124.96691 45.69228,-30.29283 a 6.9056864,6.9056847 0 0 0 0,-11.49536 l -39.98074,-26.67792 39.76384,-26.822521 a 6.9056864,6.9056847 0 0 0 -3.97639,-12.68828 z"
@@ -325,7 +325,7 @@
          y="316.02634"
          x="42.928257"
          id="tspan3601"
-         sodipodi:role="line">pluswp</tspan></text>
+         sodipodi:role="line">knitkode</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -358,7 +358,7 @@
          id="tspan3617"
          x="44.419823"
          y="322.08725"
-         style="font-size:34.35978699px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Venus Rising;-inkscape-font-specification:Venus Rising">pluswp</tspan></text>
+         style="font-size:34.35978699px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Venus Rising;-inkscape-font-specification:Venus Rising">knitkode</tspan></text>
   </g>
   <g
      style="display:none"
@@ -392,7 +392,7 @@
          y="330.66507"
          x="-24.677862"
          id="tspan3629-4"
-         sodipodi:role="line">pluswp.com</tspan></text>
+         sodipodi:role="line">knitkode.com</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
